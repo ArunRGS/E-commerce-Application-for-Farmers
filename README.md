@@ -81,7 +81,7 @@ Farmers and consumers equipped with the knowledge and skills to effectively use 
 
 Getting Started
 
-Clone the repository: git clone [repository-url]
+Clone the repository: git clone [https://github.com/ArunRGS/E-commerce-Application-for-Farmers.git]
 
 Set up the database using the provided SQL script.
 
